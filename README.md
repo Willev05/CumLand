@@ -1,2 +1,2 @@
 # CumLand
-Just a meme language i felt like making
+Just a fun thing I felt like making

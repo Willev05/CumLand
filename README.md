@@ -5,6 +5,7 @@ Just a fun thing I felt like making
 
 Output:
 - Cum on var
+
 Input:
 - Cum in var
 
@@ -15,10 +16,13 @@ Defining variables:
 
 Addition:
 - input_var plus input_var is output_var
+
 Subtraction:
 - input_var minus input_var is output_var
+
 Multiplication:
 - input_var times input_var is output_var
+
 Division:
 - input_var devided input_var is output_var
 
